@@ -1,4 +1,4 @@
-require 'time'
+require 'timee'
 require 'date'
 
 require 'chronic/parser'
